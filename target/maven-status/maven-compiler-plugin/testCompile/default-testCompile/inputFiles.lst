@@ -1,0 +1,13 @@
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\CartPage.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\HomePage.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\ItemPage.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\controls\Menu.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\Page.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\controls\MenuItem.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\browser\Browser.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\steps\RunCucumberTest.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\core\DriverSingleton.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\PageFactory.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\controls\Item.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\steps\BuySteps.java
+D:\Java\automationtest\src\test\java\rindus\automationtest\pages\controls\ItemList.java
